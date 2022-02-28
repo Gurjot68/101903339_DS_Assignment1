@@ -1,8 +1,13 @@
 # 101903339_DS_Assignment1
+
 Submission by :Gurjot Kaur
+
 Submitted to: Dr. Sahil Sharma
+
 Roll no : 101903339
+
 Batch: 3CO13
+
 DATA SCIENCE ASSIGNMENT 1
 
 In this file we have implemented Linear Regression on House Prices - Advanced Regression Techniques Kaggle challenge which will need us to do extensive data
